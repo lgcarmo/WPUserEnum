@@ -7,7 +7,6 @@ Utiliza 7 métodos conhecidos para identificar nomes de usuário e expor potenci
 
 ## ⚡ Funcionalidades
 
-- 🔍 **7 técnicas de enumeração** baseadas no artigo da GoSecure
 - 🌐 Suporte a proxy (`--proxy`)
 - 📁 Suporte a lista de domínios (`--list`)
 - 📬 Suporte a wordlist de usuários/emails (`--userlist`)
